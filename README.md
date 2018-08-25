@@ -16,12 +16,12 @@ Caso queira contribuir com alguma referência, basta enviar um e-mail para xxxx 
 - Nome do Autor
 - Site (se houver)
 - Nome material indicado (pode ser livro, vídeo, documentário...)
-- Um pequeno resumo de cada livro indicado. (Principais temas abordados, avaliação e etc)
+- Um pequeno resumo de cada material indicado. (Principais temas abordados, avaliação e etc)
 
 A indicação será avaliada passará por uma triagem para avaliar relevância e adequação e em seguida será incluida.
 
 
-![Image Mind Map](https://sharingtoexpand/images/Technical_References.png)
+![Image Mind Map](https://github.com/sharingtoexpand/images/Technical_References.png)
 
 
 ### Suporte e Contato
