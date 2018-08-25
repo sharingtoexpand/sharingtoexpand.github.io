@@ -1,37 +1,30 @@
+# Atenção!! Página em contrução
+
 ## Seja muito bem-vindo!
 
-You can use the [editor on GitHub](https://github.com/sharingtoexpand/sharingtoexpand.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+O objetivo dessa página é contribuir para a disseminação de informação útil para todos aqueles interessados em auto-conhecimento. Desejamos criar um repositório de informações (livros, sites, blogs, canais no youtube) indicadas por todas pessoas que estão envolvidas nessa caminhada!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Como funciona?
 
-### Markdown
+Criamos um mind map que junta todos os temas que julgamos importantes nesse processo. Esses conhecimentos são técnicos e não vinculados a nenhuma religião. Existem algumas referências que fazem introdução à ensinamentos, como por exemplo do caso do Budismo. Mas nesse caso, a referência está ligada a algum outro tema onde conhecimentos básicos de Budismo são úteis.
+Cada pessoa pode ir avançando nos estudos de acordo com sua intuição ou orientação dada a ela. Não é necessário seguir a ordem sugerida nessa página!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Como posso contribuir?
+
+Caso queira contribuir com alguma referência, basta enviar um e-mail para xxxx com as seguintes especificações:
+- Tema 
+- Nome do Autor
+- Site (se houver)
+- Nome material indicado (pode ser livro, vídeo, documentário...)
+- Um pequeno resumo de cada livro indicado. (Principais temas abordados, avaliação e etc)
+
+A indicação será avaliada passará por uma triagem para avaliar relevância e adequação e em seguida será incluida.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Suporte e Contato
 
-### Jekyll Themes
+Caso tenha alguma dúvida ou precise que algum suporte, entrar em contato pelo [e-mail] xxxx
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sharingtoexpand/sharingtoexpand.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
