@@ -1,4 +1,4 @@
-# Atenção!! Página em contrução
+# Atenção!! Página em construção
 
 ## Seja muito bem-vindo!
 
