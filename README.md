@@ -21,7 +21,7 @@ Caso queira contribuir com alguma referência, basta enviar um e-mail para xxxx 
 A indicação será avaliada passará por uma triagem para avaliar relevância e adequação e em seguida será incluida.
 
 
-![Image Mind Map](https://github.com/sharingtoexpand/images/Technical_References.png)
+![Image Mind Map](//sharingtoexpand.github.io/Technical_References.png){:class="img-responsive"}
 
 
 ### Suporte e Contato
