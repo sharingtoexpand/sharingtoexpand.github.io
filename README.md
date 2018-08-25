@@ -18,7 +18,7 @@ Caso queira contribuir com alguma referência, basta enviar um e-mail para xxxx 
 - Nome material indicado (pode ser livro, vídeo, documentário...)
 - Um pequeno resumo de cada material indicado. (Principais temas abordados, avaliação e etc)
 
-A indicação será avaliada passará por uma triagem para avaliar relevância e adequação e em seguida será incluida.
+A indicação passará por uma triagem para avaliar relevância e adequação e em seguida será incluida no site.
 
 
 ![Image Mind Map](//sharingtoexpand.github.io/Technical_References.png){:class="img-responsive"}
